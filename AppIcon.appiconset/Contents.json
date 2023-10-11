@@ -1,0 +1,192 @@
+{
+    "images": [
+        {
+            "size": "20x20",
+            "idiom": "iphone",
+            "filename": "logo40x40.jpg",
+            "scale": "2x"
+        },
+        {
+            "size": "20x20",
+            "idiom": "iphone",
+            "filename": "logo60x60.jpg",
+            "scale": "3x"
+        },
+        {
+            "size": "29x29",
+            "idiom": "iphone",
+            "filename": "logo29x29.jpg",
+            "scale": "1x"
+        },
+        {
+            "size": "29x29",
+            "idiom": "iphone",
+            "filename": "logo58x58.jpg",
+            "scale": "2x"
+        },
+        {
+            "size": "29x29",
+            "idiom": "iphone",
+            "filename": "logo87x87.jpg",
+            "scale": "3x"
+        },
+        {
+            "size": "40x40",
+            "idiom": "iphone",
+            "filename": "logo80x80.jpg",
+            "scale": "2x"
+        },
+        {
+            "size": "40x40",
+            "idiom": "iphone",
+            "filename": "logo120x120.jpg",
+            "scale": "3x"
+        },
+        {
+            "size": "60x60",
+            "idiom": "iphone",
+            "filename": "logo120x120.jpg",
+            "scale": "2x"
+        },
+        {
+            "size": "60x60",
+            "idiom": "iphone",
+            "filename": "logo180x180.jpg",
+            "scale": "3x"
+        },
+        {
+            "idiom": "ipad",
+            "size": "20x20",
+            "scale": "1x",
+            "filename": "logo20x20.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "20x20",
+            "scale": "2x",
+            "filename": "logo40x40.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "29x29",
+            "scale": "1x",
+            "filename": "logo29x29.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "29x29",
+            "scale": "2x",
+            "filename": "logo58x58.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "40x40",
+            "scale": "1x",
+            "filename": "logo40x40.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "40x40",
+            "scale": "2x",
+            "filename": "logo80x80.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "76x76",
+            "scale": "1x",
+            "filename": "logo76x76.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "76x76",
+            "scale": "2x",
+            "filename": "logo152x152.jpg"
+        },
+        {
+            "idiom": "ipad",
+            "size": "83.5x83.5",
+            "scale": "2x",
+            "filename": "logo167x167.jpg"
+        },
+        {
+            "idiom": "ios-marketing",
+            "size": "1024x1024",
+            "scale": "1x",
+            "filename": "logo1024x1024.jpg"
+        },
+        {
+            "size": "20x20",
+            "idiom": "ipad",
+            "filename": "logo20x20.jpg",
+            "unassigned": true,
+            "scale": "1x"
+        },
+        {
+            "size": "20x20",
+            "idiom": "ipad",
+            "filename": "logo40x40.jpg",
+            "unassigned": true,
+            "scale": "2x"
+        },
+        {
+            "size": "29x29",
+            "idiom": "ipad",
+            "filename": "logo29x29.jpg",
+            "unassigned": true,
+            "scale": "1x"
+        },
+        {
+            "size": "29x29",
+            "idiom": "ipad",
+            "filename": "logo58x58.jpg",
+            "unassigned": true,
+            "scale": "2x"
+        },
+        {
+            "size": "40x40",
+            "idiom": "ipad",
+            "filename": "logo40x40.jpg",
+            "unassigned": true,
+            "scale": "1x"
+        },
+        {
+            "size": "40x40",
+            "idiom": "ipad",
+            "filename": "logo80x80.jpg",
+            "unassigned": true,
+            "scale": "2x"
+        },
+        {
+            "size": "76x76",
+            "idiom": "ipad",
+            "filename": "logo76x76.jpg",
+            "unassigned": true,
+            "scale": "1x"
+        },
+        {
+            "size": "76x76",
+            "idiom": "ipad",
+            "filename": "logo152x152.jpg",
+            "unassigned": true,
+            "scale": "2x"
+        },
+        {
+            "size": "83.5x83.5",
+            "idiom": "ipad",
+            "filename": "logo167x167.jpg",
+            "unassigned": true,
+            "scale": "2x"
+        },
+        {
+            "size": "1024x1024",
+            "idiom": "ios-marketing",
+            "filename": "logo1024x1024.jpg",
+            "unassigned": true,
+            "scale": "1x"
+        }
+    ],
+    "info": {
+        "version": 1,
+        "author": "xcode"
+    }
+}
